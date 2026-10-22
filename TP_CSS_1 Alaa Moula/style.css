@@ -95,6 +95,9 @@ h1{
   box-shadow: 0 4px 12px rgba(0,0, 0, 0.12);
 
 }
+.grille p{
+  color: white;
+}
 h3{
   color: #1D4ED8
 }
@@ -105,6 +108,9 @@ h3{
   background-color: #1D4ED8;
   text-decoration: none;
   border-radius: 8px;
+}
+#cours .carte p {
+    color: black;
 }
 .carte a:hover{
   background-color: #0B2447;
